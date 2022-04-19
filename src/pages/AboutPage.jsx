@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from '../components/shared/Card'
-import { FaQuestion } from 'react-icons/fa'
+// import { FaQuestion } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 
 const AboutPage = () => {

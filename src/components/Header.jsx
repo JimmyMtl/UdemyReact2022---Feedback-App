@@ -1,5 +1,4 @@
 import PropTypes from "prop-types"
-import { Link } from "react-router-dom"
 
 function Header({ text, bgColor, textColor }) {
   const headerStyles = {
