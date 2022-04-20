@@ -11,29 +11,9 @@
       "text": "This is feedback item 2 coming from the backend"
     },
     {
-      "text": "This is feedback item 3 coming from the backend",
+      "text": "This is feedback itesttest UWO",
       "rating": 10,
       "id": 3
-    },
-    {
-      "text": "sdfgsdfgsdfgsdfg",
-      "rating": 5,
-      "id": 4
-    },
-    {
-      "text": "sdfgdfghjfhjkghjkghjk",
-      "rating": 10,
-      "id": 5
-    },
-    {
-      "text": "1234567890f",
-      "rating": 10,
-      "id": 6
-    },
-    {
-      "text": "12345678901",
-      "rating": 3,
-      "id": 7
     }
   ]
 }
