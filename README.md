@@ -1,4 +1,6 @@
 # React Feedback App
+## Deployed on Netlify
+## https://boisterous-dodol-60c0f6.netlify.app
 
 This is a project from my React Front To Back 2022 course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
